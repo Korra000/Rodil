@@ -1,0 +1,105 @@
+.nav-style{
+   background: #2c3e50!important;
+    margin: 0;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    padding: 15px;
+}
+.width-100-percent{
+    width: 100%;
+}
+.avatar{
+    border-radius: 50%;
+    width: 250px;
+    vertical-align: middle;
+    border: none;
+}
+.nav-head{
+    text-align: center;
+    background: #1abc9c!important;
+}
+
+.text-style h1{
+    font-size: 50px;
+    font-family: Comic Sans MS;
+    color: white;
+}
+.text-style h2{
+    font-family: Comic Sans MS;
+    color: #2c3e50;
+    font-weight: bold;
+}
+.text-style small{
+    font-family: Comic Sans MS;
+}
+.icon{
+    text-align: center;
+}
+.pic{
+    width: 225px;
+    height: 225px;
+    border-radius: 50%;
+}
+.portfolio{
+    text-align: center;
+    font-family: comic Sans MS;
+    margin-bottom: 30px;
+    color: #2c3e50;
+}
+.line{
+    width: 100%;
+    max-width: 256px;
+    height: .25rem;
+    background-color: #2c3e50;
+    border-radius: 1rem;
+    border-color: #2c3e50!important;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-top: -18px;
+}
+.head2 {
+    text-align: center;
+}
+.carousel{
+    object-fit: contain;
+    text-align: center;
+    background: #1abc9c!important;
+}
+.wew{
+    margin: 0 auto;
+}
+.carouselText{
+    text-align: center;
+    font-family: comic Sans MS;
+    margin-bottom: 30px;
+    color: white;
+}
+.bg-carousel{
+    background:#1abc9c!important;
+    padding: 30px;
+}
+.con-us{
+   text-align: center;
+}
+.con-margin{
+    margin: 0 auto;
+}
+.con-form{
+    padding: 18px;
+    margin: 0 auto;
+}
+.con-card{
+    border: none;
+}
+.con-text{
+    border: none;
+    font-size: 25px;
+    border-bottom: 1px solid lightgray;
+}
+.con-head{
+    text-align: center;
+    font-family: comic Sans MS;
+    margin-bottom: 30px;
+    color:  #2c3e50;
+}
